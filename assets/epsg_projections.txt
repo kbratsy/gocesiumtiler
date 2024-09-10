@@ -4035,3 +4035,4 @@ EPSG:68156405	EPSG:68156405: Greek (Athens) (deg)	+proj=longlat +ellps=bessel +p
 EPSG:68186405	EPSG:68186405: S-JTSK (Ferro) (deg)	+proj=longlat +ellps=bessel +pm=ferro +no_defs 
 EPSG:68206405	EPSG:68206405: Segara (Jakarta) (deg)	+proj=longlat +ellps=bessel +pm=jakarta +no_defs 
 EPSG:69036405	EPSG:69036405: Madrid 1870 (Madrid) (deg)	+proj=longlat +a=6378298.3 +b=6356657.142669561 +pm=madrid +no_defs 
+EPSG:5254	EPSG:5254: Turkey Istanbul (Turkey) (deg)	+proj=tmerc +lat_0=0 +lon_0=30 +k=1 +x_0=500000 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs
